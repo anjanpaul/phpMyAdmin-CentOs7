@@ -15,7 +15,7 @@ systemctl status httpd
 
 Next, we should make sure that Apache is running. Enter your server’s IP address into a browser address bar. You should see the Apache testing splash screen:
 
-![alt text]()
+![alt text](https://github.com/anjanpaul/phpMyAdmin-CentOs7/blob/main/output/apache-testing-spash-screen.jpeg)
 
 ## 2. Install the EPEL Repository
 
@@ -49,7 +49,7 @@ Here you will see four different require ip strings matched with long IPs. The d
 
 You can see an example of the phpMyAdmin.conf file below:
 
-![alt text]()
+![alt text](https://github.com/anjanpaul/phpMyAdmin-CentOs7/blob/main/output/phpmyadmin-configuration-file.png)
 
 ## 5. Restart the Apache Web Server
 
@@ -76,7 +76,7 @@ vim config.inc.php
 
 Inside you can set the username and password, as shown in the screenshot below:
 
-![alt text]()
+![alt text](https://github.com/anjanpaul/phpMyAdmin-CentOs7/blob/main/output/phpmyadmin-user-configuration-file.png)
 
 Save and exit the file by hitting esc and :wq as before.
 
