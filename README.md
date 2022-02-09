@@ -25,6 +25,13 @@ phpMyAdmin comes in the EPEL repository (Extra Packages for Enterprise Linux). T
 sudo yum install epel-release
 
 ```
+## 2.1 Install php
+```
+Sudo yum install php
+
+```
+
+
 Now that the EPEL repo is made available, we can proceed to install phpMyAdmin on CentOS 7.
 
 ## 3. Install phpMyAdmin on CentOS 7
